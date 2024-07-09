@@ -93,7 +93,7 @@ print(f'Status Code: {response.status_code}')
 
 * Pull request process
 * Coding standards
-* Documentation style guide
+* Documentation [style guide](https://targeted-visitors.com/targeted-website-traffic-geo-visitors-definition-and-how-to-increase-it/)
 ### License:
 
 ##### Choose an open-source license (e.g., MIT License) and include the license file within the repository.
@@ -103,7 +103,7 @@ Benefits:
 
 * **Centralized knowledge base**: Compile valuable information about website traffic generators in one place.
 * **Community building**: Allow others to contribute and expand the repository's knowledge base through pull requests.
-* **Learning resource**: Use the repository as a learning tool to enhance your own [understanding of website traffic generators and ethical practices](https://targeted-visitors.com/targeted-website-traffic-geo-visitors-definition-and-how-to-increase-it/).
+* **Learning resource**: Use the repository as a learning tool to enhance your own understanding of website traffic generators and ethical practices.
 ##### This template provides a flexible framework. You can adjust it based on your specific goals and the depth of information you want to cover.
 
 
